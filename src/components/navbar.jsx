@@ -7,7 +7,7 @@ function Navbar() {
     <AppBar position="fixed" sx={{ top: 0 }}>
       <Toolbar>
         <Typography variant="h6" sx={{ flexGrow: 1 }}>
-          Fake Store
+          Umozon
         </Typography>
         <Button color="inherit" component={Link} to="/homePage">
           Home
